@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "**/.git": false,
+        "**/.vscode": true
+    },
+    "js/ts.implicitProjectConfig.checkJs": true
+}
